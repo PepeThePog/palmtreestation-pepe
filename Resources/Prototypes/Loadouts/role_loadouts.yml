@@ -155,6 +155,7 @@
   - QuartermasterShoes
   - Glasses
   - Trinkets
+  - SalvageGear # Palmtree Station addition
 
 - type: roleLoadout
   id: JobCargoTechnician
@@ -175,6 +176,7 @@
   - SalvageSpecialistShoes
   - Glasses
   - Trinkets
+  - SalvageGear # Palmtree Station addition
 
 # Engineering
 - type: roleLoadout
@@ -187,6 +189,7 @@
   - ChiefEngineerOuterClothing
   - ChiefEngineerShoes
   - Trinkets
+  - EngiGear # Palmtree Station addition
 
 - type: roleLoadout
   id: JobTechnicalAssistant
@@ -205,6 +208,7 @@
   - StationEngineerShoes
   - StationEngineerID
   - Trinkets
+  - EngiGear # Palmtree Station addition
 
 - type: roleLoadout
   id: JobAtmosphericTechnician
@@ -214,6 +218,7 @@
   - AtmosphericTechnicianOuterClothing
   - AtmosphericTechnicianShoes
   - Trinkets
+  - EngiGear # Palmtree Station addition
 
 # Science
 - type: roleLoadout
@@ -278,6 +283,7 @@
   - SecurityShoes
   - SecurityGlassesOrHud # CD Addition
   - Trinkets
+  - WardenGear # Palmtree addition
 
 - type: roleLoadout
   id: JobSecurityOfficer
@@ -312,7 +318,7 @@
   - SecurityGlassesOrHud # CD Addition
   - Trinkets
 
-# Medical
+# Medical´
 - type: roleLoadout
   id: JobChiefMedicalOfficer
   groups:
